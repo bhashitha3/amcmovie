@@ -3,7 +3,7 @@
 
 s3 index.html url : https://amcfrontenddeploy.s3.amazonaws.com/index.html
 
-s3 static website url: http://amcfrontenddeploy.s3-website-us-east-1.amazonaws.com
+s3 static website url: **http://amcfrontenddeploy.s3-website-us-east-1.amazonaws.com** The final website url
 
 lambda arn:  arn:aws:lambda:us-east-1:804026444600:function:amcmoviebackend
 
